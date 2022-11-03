@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Iamhimdc
-- 👀 I’m interested in ...cooking, digital art/animation, space, and tech.
-- 🌱 I’m currently learning ...Starting this journey with C. It seems right.
-- 💞️ I’m looking to collaborate on ... Not sure yet.
-- 📫 How to reach me ... Here I believe 
+Hello, all. I am new to programming. They say it's never to late to learn. I am starting in C, and quickly learning that I should be multi-lingual. I have always been fascinated with computers and I remember them before windows came about. Please any help, recommendations, and guidance is greatly appreciated. I am excited to meet and work with all of you.
+Thanks for reading....me!
 
 <!---
 Iamhimdc/Iamhimdc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
